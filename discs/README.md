@@ -1,10 +1,7 @@
 # Disc Images & Setup Guide
 
 This folder contains:
-- **Tak_Setup_Guide.docx** - A setup and user guide explaining their use.
-- **Disc images** relevant to the main article.
+- **Tak_Setup_Guide.docx** ? Explains how to prepare the accompanying discs and run the Tak tests.
+- **Disc images (*.ssd)** ? Language-specific discs holding Tak code and support materials.
 
 Documents are available in their original format and as PDFs for easier access.
-
-These materials will be added soon.
-
